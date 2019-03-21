@@ -34,4 +34,3 @@ void FlecheBas::mousePressEvent(QGraphicsSceneMouseEvent *mouseEvent)
     }
 }
 
-//test git

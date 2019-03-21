@@ -1,0 +1,53 @@
+QWidget#fenetre
+{
+    background-color: #303030;
+}
+
+QGraphicsView#seringue{
+    background-color: #303030;
+    border: 0px;
+}
+
+QGraphicsView#fleche{
+    background-color: #303030;
+    border: 2px solid;
+    border-color: #EFEFEF;
+    border-style: outset;
+    border-radius: 5px;
+}
+
+QGraphicsView#voie{
+    background-color: #303030;
+    border: 2px solid;
+    border-color: #EFEFEF;
+    border-style: outset;
+    border-radius: 5px;
+}
+
+QGroupBox#box{
+    background-color: #EFEFEF;
+    border-color: black;
+    border-radius: 0px;
+    margin-top: 26px;
+    font-size: 17px;
+}
+
+QGroupBox::title#box{
+    subcontrol-origin: margin;
+    subcontrol-position: top center;
+    padding: 10px 500px 0px 500px;
+    border-radius: 3px;
+    border-color: black;
+    background-color: #EFEFEF;
+    color: #303030;
+}
+
+QLabel#labelPas{
+    font-size: 13px;
+    color: #EFEFEF;
+}
+
+QLineEdit#linePas{
+    color: #EFEFEF;
+    background-color:#303030;
+}

@@ -14,7 +14,7 @@ public:
     Voie1();
 
     QGraphicsView *vue_voie1;
-
+//yo
     QPolygonF fluide;
     QPolygonF ligne_superieur;
     QPolygonF ligne_horizontal_inferieur_gauche;
